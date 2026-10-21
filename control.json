@@ -1,0 +1,13 @@
+{
+  "latest_version_code": 1,
+  "latest_version_name": "1.0.0",
+  "apk_download_url": "",
+  "apk_sha256": "",
+  "release_notes": "Initial Phase 1 release.",
+  "force_update": false,
+  "global_kill_switch": false,
+  "kill_switch_message": "This application has been disabled by the developer.",
+  "wipe_data_on_lock": false,
+  "blocked_device_ids": [],
+  "offline_lease_hours": 168
+}
