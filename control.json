@@ -5,7 +5,7 @@
   "apk_sha256": "",
   "release_notes": "Initial Phase 1 release.",
   "force_update": false,
-  "global_kill_switch": true,
+  "global_kill_switch": false,
   "kill_switch_message": "This application has been disabled by the developer.",
   "wipe_data_on_lock": false,
   "blocked_device_ids": [],
